@@ -7,7 +7,8 @@
   "site": {
     "title": "Will Newby",
     "description": "Genderfluid Human. What is that, and how did I get here?",
-    "postsPerPage": "3"
+    "postsPerPage": "3",
+    "googleAnalytics": "UA-17485095-3"
   },
   "socialnetwork": {},
   "theme": {
