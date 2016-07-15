@@ -4,7 +4,13 @@
     "repositoryName": "willnewby.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Will Newby",
+    "description": "Genderfluid Human. How did I get here?",
+    "postsPerPage": "3"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
