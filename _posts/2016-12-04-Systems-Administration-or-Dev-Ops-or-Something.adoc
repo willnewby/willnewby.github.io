@@ -1,0 +1,5 @@
+= Systems Administration... or DevOps... or Something?
+:hp-tags: Systems
+
+I'm a DevOps Engineer. Which mostly just means I talk to developers when something breaks. 
+
